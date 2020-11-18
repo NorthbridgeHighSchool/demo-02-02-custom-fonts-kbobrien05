@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Quicksand:wght@300;500&family=Xanh+Mono:ital@0;1&display=swap');
+
+h1 {
+  font-family: "Xanh Mono", monospace;
+  color: rgb(29, 121, 113);
+  font-style: italic;
+}
+html {
+  background-color: rgb(251, 255, 189);
+}
+h2 {
+  font-family: "Architects Daughter", cursive;
+  color: rgb(226, 102, 0);
+}
+p {
+  font-family: "Quicksand", sans-serif;
+  color: rgb(82, 8, 124);
+  font-weight: 500;
+}
